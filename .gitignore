@@ -1,0 +1,39 @@
+# Build folders
+build/
+out/
+bin/
+Debug/
+Release/
+x64/
+x86/
+
+# CMake
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+compile_commands.json
+
+# Visual Studio
+.vs/
+*.VC.db
+*.VC.opendb
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Object files
+*.obj
+*.o
+*.pch
+*.ilk
+*.pdb
+*.idb
+*.ipch
+
+# Executables
+*.exe
+
+# Logs
+*.log
